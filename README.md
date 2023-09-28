@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif)]
 <h1 align="center">Hi 👋, I'm Raihan Chowdhury</h1>
 <h3 align="center">I'm a front-end Web Developer. I really love programming.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhnchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="rhnchowdhury" /> </p>
 
