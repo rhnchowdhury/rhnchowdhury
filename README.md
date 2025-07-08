@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Khukumoni Foundation Website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://dev-raihan-portfolio.netlify.app/](https://dev-raihan-portfolio.netlify.app/)
 
-- 💬 Ask me about **MEARN Stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rhnchdri@gmail.com**
 
